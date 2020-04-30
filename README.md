@@ -1,1 +1,1 @@
-# discord-lock-out
+# THE QUESTS OF MAGIC wiki
