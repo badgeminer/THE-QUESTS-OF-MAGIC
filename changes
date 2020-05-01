@@ -5,7 +5,4 @@ refrece
 * means changed
 /!\ means test
 ---------------
-+ boss
-+ zones 1-5
-+player
-  + controls
++ player hp
